@@ -5,7 +5,8 @@ Silver Creek Falls is a small waterfall in Madison County, Kentucky. It’s just
 ![Map of Silver Creek Falls](map.jpg)  
 *Map of Silver Creek Falls*
 
-![Screenshot of animation](animation.jpg)  
+![Screenshot of animation](animation.jpg)
+*Animation Thumbnail*
 *[Watch the animation](https://www.youtube.com/watch?v=M6uEPdCyqVo)*
 
 
